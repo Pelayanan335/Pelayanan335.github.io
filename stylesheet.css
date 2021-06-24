@@ -51,21 +51,30 @@ a {
 }
 
 .NPWP {
-  background-color: #239b76;
+  background-color: #00CCCC;
 }
 
 .efin {
-  background-color: #FFB6C1;
+  background-color: #0099FF;
   margin-right: 10px;
 }
 
 .sertel {
-  background-color: #3b5998;
+  background-color: #00FF00;
   margin-right: 10px;
 }
 
 .pkp {
-  background-color: #55acee;
+  background-color: #FF00FF;
+}
+
+.penghapusan {
+  background-color: #9933FF;
+}
+
+.ne {
+  backgroun-color: #00CCFF;
+  margin-right: 10px;
 }
 
 .btn {
@@ -125,7 +134,7 @@ header {
   color: white;
   float: right;
   font-size: 25px;
-  padding: 21px 0;
+  padding: 20px 0;
   display: none;
 }
 
