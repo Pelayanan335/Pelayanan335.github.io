@@ -229,6 +229,7 @@ header {
 
 footer-logo {
   width: 75px;
+  position: left;
 }
 
 footer p {
