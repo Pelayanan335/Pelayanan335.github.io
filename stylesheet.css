@@ -156,7 +156,7 @@ header {
   text-align: center;
 }
 
-.heading h2 {
+.headingg h2 {
   font-weight: normal;
   margin-bottom: 30px;
   text-align: center;
@@ -203,7 +203,7 @@ header {
 .heading h2 {
   font-weight: normal;
   margin-bottom: 20px;
-  text-align: left;
+  text-align: center;
   margin-top:50px;
   font-size: 30px;
 }
@@ -228,7 +228,7 @@ header {
 }
 
 footer-logo {
-  width: 300px;
+  width: 150px;
 }
 
 footer p {
