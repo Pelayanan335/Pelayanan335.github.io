@@ -188,6 +188,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
+  margin-bottom:30px;
   font-size: 15px;
   color: #b3aeb5;
 }
@@ -196,7 +197,7 @@ header {
   font-weight: normal;
   margin-bottom: 20px;
   text-align: center;
-  font-size: 50px;
+  font-size: 30px;
 }
 
 .heading h2 {
@@ -204,7 +205,7 @@ header {
   margin-bottom: 20px;
   text-align: center;
   margin-top:50px;
-  font-size: 50px;
+  font-size: 30px;
 }
 
 .message-wrapper {
