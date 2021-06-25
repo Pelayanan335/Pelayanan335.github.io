@@ -203,7 +203,7 @@ header {
 .heading h2 {
   font-weight: normal;
   margin-bottom: 20px;
-  text-align: center;
+  text-align: left;
   margin-top:50px;
   font-size: 30px;
 }
@@ -227,7 +227,7 @@ header {
   box-shadow: none;
 }
 
-footer img {
+footer logo {
   width: 300px;
 }
 
